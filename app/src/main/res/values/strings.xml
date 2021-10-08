@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="country">
+
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+
+
+    </string-array>
+
+    <string-array name="country_description">
+
+        <item>Bangladesh is beautiful country</item>
+        <item>Bangladesh is beautiful country</item>
+        <item>Bangladesh is beautiful country</item>
+        <item>Bangladesh is beautiful country</item>
+        <item>Bangladesh is beautiful country</item>
+        <item>Bangladesh is beautiful country</item>
+        <item>Bangladesh is beautiful country</item>
+        <item>Bangladesh is beautiful country</item>
+        <item>Bangladesh is beautiful country</item>
+        <item>Bangladesh is beautiful country</item>
+        <item>Bangladesh is beautiful country</item>
+        <item>Bangladesh is beautiful country</item>
+
+    </string-array>
+
+
+
+</resources>

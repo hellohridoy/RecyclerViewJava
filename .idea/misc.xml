@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a1.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a10.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a11.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a2.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a3.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a4.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a5.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a6.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a7.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a8.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/a9.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hridoy Hossain/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/sample_item.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
